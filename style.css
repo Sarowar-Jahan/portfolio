@@ -136,7 +136,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #131313;
+    color: #f0ad4e;
 }
 
 h1,
@@ -368,11 +368,11 @@ hr.invis2 {
 .header .head-social {
     border-right: 1px solid rgba(255, 255, 255, 0.4);
     height: 25px;
-    padding-right: 8px;
+    padding-right: 10px;
 }
 
 .header .menu-right {
-    margin-left: 8px;
+    margin-left: 10px;
 }
 
 .header .fa-bars {
@@ -384,7 +384,7 @@ hr.invis2 {
     font-size: 14px;
     padding: 0;
     display: inline-block;
-    width: 20px;
+    width: 24px;
     color: #ffffff;
     height: 20px;
     line-height: 20px;
@@ -772,6 +772,10 @@ svg {
     border-radius: 5px;
     padding: 0;
     position: relative;
+
+    a {
+        color: #272727;
+    }
 }
 
 
@@ -854,7 +858,7 @@ svg {
     z-index: 1;
     text-align: center;
     position: relative;
-    background: url(upload/demo-bg.jpg) no-repeat center center scroll;
+    background: url(upload/demo-bg.webp) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -880,7 +884,6 @@ svg {
     font-size: 18px;
     padding: 0;
     margin: 2rem 0 0;
-    line-height: 1;
 }
 
 .hero-freelancer h4 {
@@ -945,6 +948,7 @@ svg {
 .portfolio-meta {
     border-top: 1px solid #e9edf5;
     padding: 1rem 1.4rem;
+    color: #272727;
 }
 
 .portfolio-meta mark {
@@ -1013,6 +1017,10 @@ svg {
 .btn-orange.active,
 .show>.btn-orange.dropdown-toggle {
     color: #ffffff;
+
+    i {
+        color: #ffae19;
+    }
 }
 
 .btn-gradient,
@@ -1114,7 +1122,7 @@ div.sidewrapper.sidenav {
 
 .sidewrapper .widget {
     margin-bottom: 1rem;
-    margin-top: 2rem;
+    margin-top: 4rem;
     padding: 1rem 3rem;
 }
 
@@ -1268,6 +1276,7 @@ div.sidewrapper.sidenav {
 .instagram-widget p {
     padding: 0;
     margin: 0 0 2rem;
+    color: #a3a3a3;
 }
 
 .instagram-widget a {
@@ -1368,7 +1377,7 @@ div.sidewrapper.sidenav {
 .testi-style-02 h4 small,
 .testi-style-01 h4 small {
     font-size: 14px;
-    color: #999999;
+    color: #000829;
     padding-left: 10px;
 }
 

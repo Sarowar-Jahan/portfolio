@@ -99,11 +99,12 @@ a,
 .yamm-fw li a:before,
 .btn.withicon:hover i,
 .btn.withicon:focus i {
-  color: #ffae19;
+  color: #f0ad4e;
 }
 
 .btn-orange {
   background-color: #ffae19 !important;
+  color: #101010;
 }
 
 .section-title h4 {

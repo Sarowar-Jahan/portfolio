@@ -906,7 +906,7 @@ svg {
     border-radius: 4px;
     vertical-align: middle;
     margin-right: 5px;
-    padding: 0 15px !important;
+    padding: 3px 15px !important;
 }
 
 .magnifier {
